@@ -21,4 +21,4 @@
   <div align="center" dir="auto">
     <img align="certer" alt="Code" height="240" width="300" src="https://media1.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47didutnfs25im7931rs0cl0jehl6v0jhh34epog5g&rid=giphy.gif&ct=g" data-canonical-src="https://c.tenor.com/4fAS3R0nMa8AAAAi/akuma-gouki.gif" style="max-width: 100%;">
 </div>
-</div>
+
