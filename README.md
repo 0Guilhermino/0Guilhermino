@@ -1,4 +1,5 @@
-## Olá, Eu sou Angelo Guilhermino, 
+## Olá, Eu sou Angelo Guilhermino.
+                Estudante do curso de Sistemas de Informação na Uninassau / Gosto de desafios e de aprender coisas novas!
 
 <div align="center">
   <a href="https://github.com/0Guilhermino">
