@@ -1,5 +1,5 @@
 ## Olá, Eu sou Angelo Guilhermino.
-   Em constante evolução 🚀
+   Desenvolvedor fullStack, Bacharel em sistemas de informação 🚀
 
 <div align="center">
   <a href="https://github.com/0Guilhermino">
